@@ -1,0 +1,41 @@
+h1 {
+    color:indigo;
+    font-weight:200;
+    font-size:50px;
+    text-transform:uppercase;
+    border-top:5px solid #b56121;
+}
+body {
+    background-color: #6DABE4;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+}
+#huvudsektion {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+button {
+    margin:30px;
+    padding:20px 25px;
+    background-color: #b56121;
+    font-size:20px;
+    text-align:center;
+    border:1px solid indigo;
+    text-transform:uppercase;
+    text-decoration:none;
+    outline:none;
+}
+button:hover {
+    transition:0.3s;
+    background-color:indigo;
+    color:#6DABE4;
+    text decoration:
+}
