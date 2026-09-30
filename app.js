@@ -1,3 +1,4 @@
+
 var bilder = [
     "images/Jeppson.jpg",  
     "images/IsraeliTakuji.png", 
